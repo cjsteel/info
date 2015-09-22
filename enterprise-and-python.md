@@ -81,7 +81,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [Moving Picture Companies](http://www.moving-picture.com/)
 * [NeuroRx](http://www.neurorx.com/)
 * [Nuance Communications](http://www.nuance.com/index.htm)
-* Océan itératif / Iterative Ocean
+* [Iterative Ocean](http://www.iterativeocean.com)
 * [Outbox Technology](http://www.outboxtechnology.com/)
 * [PasswordBox](https://www.passwordbox.com) // Intel Corporation
 * [Pivotal Payments](http://www.pivotalpayments.com/)
